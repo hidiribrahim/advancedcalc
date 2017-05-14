@@ -1,0 +1,27 @@
+p {
+    font-family: verdana;
+    font-size: 45px;
+    text-align: center;
+}
+input,select {
+  width: 350px;
+  font-size: 45px;
+}
+table {
+  font-size: 45px;
+}
+
+/* Buttons CSS */
+.button-xsmall {
+  font-size: 70%;
+}
+.button-small {
+  font-size: 85%;
+}
+.button-large {
+ font-size: 110%;
+}
+.button-xlarge {
+ font-size: 190%;
+ margin-bottom: 1em;
+}
